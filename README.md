@@ -1,2 +1,11 @@
 # Testes-melhorias
-atividade 1 envolvendo plano de teste (caso de teste, defeito, falha, teste estático e dinâmico, aceitação, artefatos de teste).
+atividades envolvendo plano de teste:
+- Caso de Teste
+- Defeito
+- Falha
+- Teste estático e dinâmico
+- Aceitação
+- Artefatos de teste
+- Ferramentas de depuração
+- Testes unitários automatizados
+
